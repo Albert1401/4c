@@ -1,1 +1,3 @@
-ml/knn/.ipynb_checkpoints
+*.ipynb_checkpoints
+kurm/
+construct-yourself/
